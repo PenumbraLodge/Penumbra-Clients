@@ -23,7 +23,7 @@ public class ServerMain
             ClientInfo[] clientInfos = StaticClient.list(versionsDir);
 
             try(FileOutputStream outputStream = new FileOutputStream(
-                    IOUtil.createFile(new File(versionsDir, "list"), false)
+                    IOUtil.createFile(new File(versionsDir, "list.json"), false)
             )) {
                 String json = JsonUtil.toJsonStr(clientInfos);
                 outputStream.write(json.getBytes(StandardCharsets.UTF_8));
