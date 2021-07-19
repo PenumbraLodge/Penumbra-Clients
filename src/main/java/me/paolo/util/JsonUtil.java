@@ -14,7 +14,7 @@ import java.io.Reader;
 public class JsonUtil
 {
 
-    private static final Gson GSON_INST = new GsonBuilder().create();
+    private static final Gson GSON_INST = new GsonBuilder().setPrettyPrinting().create();
 
     public static <T> T fromJson(Reader reader, Class<T> type) {
         return GSON_INST.fromJson(reader, type);

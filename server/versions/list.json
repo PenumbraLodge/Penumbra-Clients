@@ -1,1 +1,351 @@
-[{"jars":[{"jar":{"path":"Aritum/Aritum.jar","sha1":"ecc4ceee8b39099707a20d056a097cc362caa0dd","size":33383989,"url":"https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Aritum/0.9/Aritum.jar"},"json":{"path":"Aritum/Aritum.json","sha1":"92025b459d0f14d9766e282030167a065d2da296","size":16889,"url":"https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Aritum/0.9/Aritum.json"},"version":"0.9"},{"jar":{"path":"Aritum/Aritum.jar","sha1":"5241edb89e03c665672e0cfa4e8ccf455b052990","size":52832392,"url":"https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Aritum/0.95/Aritum.jar"},"json":{"path":"Aritum/Aritum.json","sha1":"92025b459d0f14d9766e282030167a065d2da296","size":16889,"url":"https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Aritum/0.95/Aritum.json"},"version":"0.95"}],"name":"Aritum","description":"Sample description","developed-by":"bawskee","cracked-by":"Paolo V.","preview-urls":["https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Aritum/preview0.jpg","https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Aritum/preview1.jpg","https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Aritum/preview2.jpg","https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Aritum/preview3.jpg"],"mc-versions":["1.8.9"]},{"jars":[{"jar":{"path":"Azura/Azura.jar","sha1":"8cf0550b1feb4d749cc149cd370736beddd8e76d","size":24314530,"url":"https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Azura/b1.1/Azura.jar"},"json":{"path":"Azura/Azura.json","sha1":"9f42856ca111dcc9bbd2ec343f91458d4f005c6b","size":16887,"url":"https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Azura/b1.1/Azura.json"},"version":"b1.1"},{"jar":{"path":"Azura/Azura.jar","sha1":"30125b89348ad68655124751a17023c6823409b9","size":19901672,"url":"https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Azura/b2.0/Azura.jar"},"json":{"path":"Azura/Azura.json","sha1":"08f89994b34738438b47fc57ded53268fdb38098","size":18905,"url":"https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Azura/b2.0/Azura.json"},"version":"b2.0"}],"name":"Azura","description":"Sample description","developed-by":"thorbn","cracked-by":"Paolo V.","preview-urls":["https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Azura/preview0.jpg","https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Azura/preview1.jpg","https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Azura/preview2.jpg"],"mc-versions":["1.8.9"]},{"jars":[{"jar":{"path":"Dortware/Dortware.jar","sha1":"605e57b0bcc2d628e584f8eabb717db7f2158877","size":18785348,"url":"https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Dortware/1.3.0/Dortware.jar"},"json":{"path":"Dortware/Dortware.json","sha1":"af889eedc16d7345b9b3e5439d6adc75d0c267ef","size":16890,"url":"https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Dortware/1.3.0/Dortware.json"},"version":"1.3.0"},{"jar":{"path":"Dortware/Dortware.jar","sha1":"4d3a587461d6879493a80b6c7d171d7523f289db","size":18095027,"url":"https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Dortware/1.4.0/Dortware.jar"},"json":{"path":"Dortware/Dortware.json","sha1":"af889eedc16d7345b9b3e5439d6adc75d0c267ef","size":16890,"url":"https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Dortware/1.4.0/Dortware.json"},"version":"1.4.0"},{"jar":{"path":"Dortware/Dortware.jar","sha1":"918b962f4c5fc55a87445766a03b81d27fc384d3","size":26800438,"url":"https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Dortware/1.5.0/Dortware.jar"},"json":{"path":"Dortware/Dortware.json","sha1":"ac51486ede91cea5f09579455daa07d1bfcfabef","size":14601,"url":"https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Dortware/1.5.0/Dortware.json"},"version":"1.5.0"}],"name":"Dortware","description":"Sample description","developed-by":"Dort, Aidan, Newb, Auth","cracked-by":"Paolo V.","preview-urls":["https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Dortware/preview0.jpg","https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Dortware/preview1.jpg","https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Dortware/preview2.jpg","https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Dortware/preview3.jpg"],"mc-versions":["1.8"]},{"jars":[{"jar":{"path":"Eris/Eris.jar","sha1":"213765b43dff187b140e481fea02ec5733fbda9c","size":31104334,"url":"https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Eris/v0.1b/Eris.jar"},"json":{"path":"Eris/Eris.json","sha1":"56a0c26fe53ec1d59f9be9547e897fc094982129","size":17442,"url":"https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Eris/v0.1b/Eris.json"},"version":"v0.1b"}],"name":"Eris","description":"Sample description","developed-by":"Spec","cracked-by":"Paolo V.","preview-urls":["https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Eris/preview0.jpg","https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Eris/preview1.jpg","https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Eris/preview2.jpg","https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Eris/preview3.jpg","https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Eris/preview4.jpg"],"mc-versions":["1.8.9"]},{"jars":[{"jar":{"path":"Fan/Fan.jar","sha1":"ade20ee10d32c1bd0b990db48d263960b11b215b","size":22248128,"url":"https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Fan/3.1-beta/Fan.jar"},"json":{"path":"Fan/Fan.json","sha1":"cdf92410d38763b5234cf2f009a28cbf0c30179a","size":15193,"url":"https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Fan/3.1-beta/Fan.json"},"version":"3.1-beta"}],"name":"Fan","description":"Sample description","developed-by":"Cedo, JosephWorks, Foggy","cracked-by":"Paolo V.","preview-urls":["https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Fan/preview0.jpg","https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Fan/preview1.jpg","https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Fan/preview2.jpg"],"mc-versions":["1.8.8"]},{"jars":[{"jar":{"path":"Gravity/Gravity.jar","sha1":"352e86206f643f3069dfbaf0a7e1e4084de34f73","size":25583807,"url":"https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Gravity/2.1/Gravity.jar"},"json":{"path":"Gravity/Gravity.json","sha1":"2dc4cb67e074f891b80bf81a57f1cbdfa98b2f82","size":16889,"url":"https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Gravity/2.1/Gravity.json"},"version":"2.1"}],"name":"Gravity","description":"Sample description","developed-by":"Jinthium","cracked-by":"Paolo V.","preview-urls":["https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Gravity/preview0.jpg","https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Gravity/preview1.jpg","https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Gravity/preview2.jpg","https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Gravity/preview3.jpg","https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Gravity/preview4.jpg","https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Gravity/preview5.jpg","https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Gravity/preview6.jpg"],"mc-versions":["1.8.8"]},{"jars":[{"jar":{"path":"Pulsive/Pulsive.jar","sha1":"b1b6e19dbf37c34dccc886fc3a8bdd9bd708e37b","size":49967831,"url":"https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Pulsive/U12.1/Pulsive.jar"},"json":{"path":"Pulsive/Pulsive.json","sha1":"a012b4767d1ee6565dc327e045ae27b04a508867","size":16889,"url":"https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Pulsive/U12.1/Pulsive.json"},"version":"U12.1"},{"jar":{"path":"Pulsive/Pulsive.jar","sha1":"bcc98cdb7381cffb36978927f919ae65ccd5b988","size":53089315,"url":"https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Pulsive/U13.7/Pulsive.jar"},"json":{"path":"Pulsive/Pulsive.json","sha1":"c874773af9627e6f26a8459ebe25f66d054803b9","size":16890,"url":"https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Pulsive/U13.7/Pulsive.json"},"version":"U13.7"}],"name":"Pulsive","description":"Sample description","developed-by":"flashy","cracked-by":"Paolo V.","preview-urls":["https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Pulsive/preview0.jpg","https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Pulsive/preview1.jpg","https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Pulsive/preview2.jpg","https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Pulsive/preview3.jpg"],"mc-versions":["1.8.8"]},{"jars":[{"jar":{"path":"Rise/Rise.jar","sha1":"26879cecc6317f72137043c04ee3789935783068","size":36783145,"url":"https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Rise/b4.3/Rise.jar"},"json":{"path":"Rise/Rise.json","sha1":"363f9a7b5a590b605dafefbce73ea0ba6628774b","size":15194,"url":"https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Rise/b4.3/Rise.json"},"version":"b4.3"},{"jar":{"path":"Rise/Rise.jar","sha1":"a638271eb09a6fd6f5cd29d44c90668097b2bd87","size":38419073,"url":"https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Rise/b4.4/Rise.jar"},"json":{"path":"Rise/Rise.json","sha1":"363f9a7b5a590b605dafefbce73ea0ba6628774b","size":15194,"url":"https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Rise/b4.4/Rise.json"},"version":"b4.4"},{"jar":{"path":"Rise/Rise.jar","sha1":"f5804469d65c1aab6ab2ca8b57aed16927203df9","size":25715215,"url":"https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Rise/b5.0/Rise.jar"},"json":{"path":"Rise/Rise.json","sha1":"363f9a7b5a590b605dafefbce73ea0ba6628774b","size":15194,"url":"https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Rise/b5.0/Rise.json"},"version":"b5.0"}],"name":"Rise","description":"Sample description","developed-by":"Alan","cracked-by":"Princekin \u0026 Paolo V.","preview-urls":["https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Rise/preview0.jpg","https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Rise/preview1.jpg","https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Rise/preview2.jpg","https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Rise/preview3.jpg"],"mc-versions":["1.8"]},{"jars":[{"jar":{"path":"ZeroDay/ZeroDay.jar","sha1":"7b6bb3bc64f21b43d0086d158b7bffc5054c318b","size":71570540,"url":"https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/ZeroDay/b20.6/ZeroDay.jar"},"json":{"path":"ZeroDay/ZeroDay.json","sha1":"28a30e2a280fcabafcae42d3618824df878b2a9d","size":16347,"url":"https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/ZeroDay/b20.6/ZeroDay.json"},"version":"b20.6"}],"name":"ZeroDay","description":"Sample description","developed-by":"Nefarious","cracked-by":"xBrownieCodez","preview-urls":["https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/ZeroDay/preview0.jpg","https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/ZeroDay/preview1.jpg","https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/ZeroDay/preview2.jpg","https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/ZeroDay/preview3.jpg","https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/ZeroDay/preview4.jpg"],"mc-versions":["1.8.8"]}]
+[
+  {
+    "jars": [
+      {
+        "jar": {
+          "path": "Azura/Azura.jar",
+          "sha1": "8cf0550b1feb4d749cc149cd370736beddd8e76d",
+          "size": 24314530,
+          "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Azura/b1.1/Azura.jar"
+        },
+        "json": {
+          "path": "Azura/Azura.json",
+          "sha1": "cea9dd37135622235e3691f765e3e2f08e34c13b",
+          "size": 22892,
+          "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Azura/b1.1/Azura.json"
+        },
+        "version": "b1.1"
+      },
+      {
+        "jar": {
+          "path": "Azura/Azura.jar",
+          "sha1": "30125b89348ad68655124751a17023c6823409b9",
+          "size": 19901672,
+          "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Azura/b2.0/Azura.jar"
+        },
+        "json": {
+          "path": "Azura/Azura.json",
+          "sha1": "0c16bde868d6090563d79ed0c920d03717a5557a",
+          "size": 25587,
+          "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Azura/b2.0/Azura.json"
+        },
+        "version": "b2.0"
+      }
+    ],
+    "name": "Azura",
+    "description": "Description coming soon",
+    "developed-by": "thorbn",
+    "cracked-by": "Paolo V.",
+    "preview-urls": [
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Azura/preview0.jpg",
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Azura/preview1.jpg",
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Azura/preview2.jpg"
+    ],
+    "mc-versions": [
+      "1.8.9"
+    ]
+  },
+  {
+    "jars": [
+      {
+        "jar": {
+          "path": "Dortware/Dortware.jar",
+          "sha1": "605e57b0bcc2d628e584f8eabb717db7f2158877",
+          "size": 18785348,
+          "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Dortware/1.3.0/Dortware.jar"
+        },
+        "json": {
+          "path": "Dortware/Dortware.json",
+          "sha1": "9e49c102eccc19b856e21d279af52ad24a07bc19",
+          "size": 22895,
+          "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Dortware/1.3.0/Dortware.json"
+        },
+        "version": "1.3.0"
+      },
+      {
+        "jar": {
+          "path": "Dortware/Dortware.jar",
+          "sha1": "4d3a587461d6879493a80b6c7d171d7523f289db",
+          "size": 18095027,
+          "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Dortware/1.4.0/Dortware.jar"
+        },
+        "json": {
+          "path": "Dortware/Dortware.json",
+          "sha1": "9e49c102eccc19b856e21d279af52ad24a07bc19",
+          "size": 22895,
+          "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Dortware/1.4.0/Dortware.json"
+        },
+        "version": "1.4.0"
+      },
+      {
+        "jar": {
+          "path": "Dortware/Dortware.jar",
+          "sha1": "057f77427c926de70243ff3fc2de053301bd223c",
+          "size": 26783062,
+          "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Dortware/1.5.0/Dortware.jar"
+        },
+        "json": {
+          "path": "Dortware/Dortware.json",
+          "sha1": "60ac4c74c9b777b2fc842b763d27b2d4a8eb561b",
+          "size": 20535,
+          "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Dortware/1.5.0/Dortware.json"
+        },
+        "version": "1.5.0"
+      }
+    ],
+    "name": "Dortware",
+    "description": "Description coming soon",
+    "developed-by": "Dort, Aidan, Newb, Auth",
+    "cracked-by": "Paolo V.",
+    "preview-urls": [
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Dortware/preview0.jpg",
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Dortware/preview1.jpg",
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Dortware/preview2.jpg",
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Dortware/preview3.jpg"
+    ],
+    "mc-versions": [
+      "1.8"
+    ]
+  },
+  {
+    "jars": [
+      {
+        "jar": {
+          "path": "Eris/Eris.jar",
+          "sha1": "213765b43dff187b140e481fea02ec5733fbda9c",
+          "size": 31104334,
+          "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Eris/v0.1b/Eris.jar"
+        },
+        "json": {
+          "path": "Eris/Eris.json",
+          "sha1": "7820cc035df118b031e94cb0b8cd19bc1a52b814",
+          "size": 23559,
+          "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Eris/v0.1b/Eris.json"
+        },
+        "version": "v0.1b"
+      }
+    ],
+    "name": "Eris",
+    "description": "Description coming soon",
+    "developed-by": "Spec",
+    "cracked-by": "Paolo V.",
+    "preview-urls": [
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Eris/preview0.jpg",
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Eris/preview1.jpg",
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Eris/preview2.jpg",
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Eris/preview3.jpg",
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Eris/preview4.jpg"
+    ],
+    "mc-versions": [
+      "1.8.9"
+    ]
+  },
+  {
+    "jars": [
+      {
+        "jar": {
+          "path": "Fan/Fan.jar",
+          "sha1": "ade20ee10d32c1bd0b990db48d263960b11b215b",
+          "size": 22248128,
+          "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Fan/3.1-beta/Fan.jar"
+        },
+        "json": {
+          "path": "Fan/Fan.json",
+          "sha1": "59cb04523317617d05165ce492f7708cced1d828",
+          "size": 20456,
+          "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Fan/3.1-beta/Fan.json"
+        },
+        "version": "3.1-beta"
+      }
+    ],
+    "name": "Fan",
+    "description": "Description coming soon",
+    "developed-by": "Cedo, JosephWorks, Foggy",
+    "cracked-by": "Paolo V.",
+    "preview-urls": [
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Fan/preview0.jpg",
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Fan/preview1.jpg",
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Fan/preview2.jpg"
+    ],
+    "mc-versions": [
+      "1.8.8"
+    ]
+  },
+  {
+    "jars": [
+      {
+        "jar": {
+          "path": "Gravity/Gravity.jar",
+          "sha1": "352e86206f643f3069dfbaf0a7e1e4084de34f73",
+          "size": 25583807,
+          "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Gravity/2.1/Gravity.jar"
+        },
+        "json": {
+          "path": "Gravity/Gravity.json",
+          "sha1": "e55b6ae6a33e882b44509f19f41962d1294ce29f",
+          "size": 22894,
+          "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Gravity/2.1/Gravity.json"
+        },
+        "version": "2.1"
+      }
+    ],
+    "name": "Gravity",
+    "description": "Description coming soon",
+    "developed-by": "Jinthium",
+    "cracked-by": "Paolo V.",
+    "preview-urls": [
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Gravity/preview0.jpg",
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Gravity/preview1.jpg",
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Gravity/preview2.jpg",
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Gravity/preview3.jpg",
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Gravity/preview4.jpg",
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Gravity/preview5.jpg",
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Gravity/preview6.jpg"
+    ],
+    "mc-versions": [
+      "1.8.8"
+    ]
+  },
+  {
+    "jars": [
+      {
+        "jar": {
+          "path": "Pulsive/Pulsive.jar",
+          "sha1": "cc9e419d9c6245bc39fb36b84610a8ba2607ee49",
+          "size": 34776217,
+          "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Pulsive/2.0/Pulsive.jar"
+        },
+        "json": {
+          "path": "Pulsive/Pulsive.json",
+          "sha1": "64954d19ae71172f53958d3cf772bf10f49b1413",
+          "size": 22894,
+          "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Pulsive/2.0/Pulsive.json"
+        },
+        "version": "2.0"
+      }
+    ],
+    "name": "Pulsive",
+    "description": "Description coming soon",
+    "developed-by": "flashy",
+    "cracked-by": "Paolo V.",
+    "preview-urls": [
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Pulsive/preview0.jpg",
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Pulsive/preview1.jpg",
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Pulsive/preview2.jpg",
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Pulsive/preview3.jpg"
+    ],
+    "mc-versions": [
+      "1.8.8"
+    ]
+  },
+  {
+    "jars": [
+      {
+        "jar": {
+          "path": "Rise/Rise.jar",
+          "sha1": "26879cecc6317f72137043c04ee3789935783068",
+          "size": 36783145,
+          "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Rise/4.3/Rise.jar"
+        },
+        "json": {
+          "path": "Rise/Rise.json",
+          "sha1": "3b00ed1b47628b24a0e1440ee95c45ec08055166",
+          "size": 20457,
+          "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Rise/4.3/Rise.json"
+        },
+        "version": "4.3"
+      },
+      {
+        "jar": {
+          "path": "Rise/Rise.jar",
+          "sha1": "a638271eb09a6fd6f5cd29d44c90668097b2bd87",
+          "size": 38419073,
+          "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Rise/4.4/Rise.jar"
+        },
+        "json": {
+          "path": "Rise/Rise.json",
+          "sha1": "3b00ed1b47628b24a0e1440ee95c45ec08055166",
+          "size": 20457,
+          "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Rise/4.4/Rise.json"
+        },
+        "version": "4.4"
+      },
+      {
+        "jar": {
+          "path": "Rise/Rise.jar",
+          "sha1": "f5804469d65c1aab6ab2ca8b57aed16927203df9",
+          "size": 25715215,
+          "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Rise/5.0/Rise.jar"
+        },
+        "json": {
+          "path": "Rise/Rise.json",
+          "sha1": "17e877e5f1f321d3692f84a90913cd6e119ffb83",
+          "size": 23246,
+          "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Rise/5.0/Rise.json"
+        },
+        "version": "5.0"
+      },
+      {
+        "jar": {
+          "path": "Rise/Rise.jar",
+          "sha1": "f6fbc57ae1cc67b543b66d0450af2ab30dcf2a9d",
+          "size": 24448003,
+          "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Rise/5.11/Rise.jar"
+        },
+        "json": {
+          "path": "Rise/Rise.json",
+          "sha1": "2fa6b0d6029571ddf32ea9adf9d8d23564e7f286",
+          "size": 23242,
+          "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Rise/5.11/Rise.json"
+        },
+        "version": "5.11"
+      }
+    ],
+    "name": "Rise",
+    "description": "Description coming soon",
+    "developed-by": "Alan",
+    "cracked-by": "Princekin \u0026 Paolo V.",
+    "preview-urls": [
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Rise/preview0.jpg",
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Rise/preview1.jpg",
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Rise/preview2.jpg",
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Rise/preview3.jpg"
+    ],
+    "mc-versions": [
+      "1.8"
+    ]
+  },
+  {
+    "jars": [
+      {
+        "jar": {
+          "path": "ZeroDay/ZeroDay.jar",
+          "sha1": "7b6bb3bc64f21b43d0086d158b7bffc5054c318b",
+          "size": 71570540,
+          "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/ZeroDay/b20.6/ZeroDay.jar"
+        },
+        "json": {
+          "path": "ZeroDay/ZeroDay.json",
+          "sha1": "cd87b6251abf696404e3208615f34b6d048b7cf5",
+          "size": 22152,
+          "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/ZeroDay/b20.6/ZeroDay.json"
+        },
+        "version": "b20.6"
+      }
+    ],
+    "name": "ZeroDay",
+    "description": "Description coming soon",
+    "developed-by": "Nefarious",
+    "cracked-by": "xBrownieCodez",
+    "preview-urls": [
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/ZeroDay/preview0.jpg",
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/ZeroDay/preview1.jpg",
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/ZeroDay/preview2.jpg",
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/ZeroDay/preview3.jpg",
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/ZeroDay/preview4.jpg"
+    ],
+    "mc-versions": [
+      "1.8.8"
+    ]
+  }
+]
