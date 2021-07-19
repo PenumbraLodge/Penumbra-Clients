@@ -1,15 +1,47 @@
 plugins {
-    id 'java'
+    id "java"
+    id "application"
 }
 
-group 'me.paolo'
-version '1.0-SNAPSHOT'
+group "me.paolo"
+version "1.0-SNAPSHOT"
+
+ext {
+    javaMainClass = "me.paolo.ServerMain"
+}
 
 repositories {
     mavenCentral()
+
+    maven {
+        url "https://jitpack.io"
+    }
+}
+
+jar {
+    archiveName = "${project.name}.jar"
+
+    manifest {
+        attributes "Main-Class": javaMainClass
+    }
+
+    from {
+        configurations.compile.collect { it.isDirectory() ? it : zipTree(it) }
+    }
+}
+
+application {
+    mainClassName = javaMainClass
 }
 
 dependencies {
+    // https://mvnrepository.com/artifact/org.projectlombok/lombok
+    compileOnly group: 'org.projectlombok', name: 'lombok', version: '1.18.18'
+    annotationProcessor group: 'org.projectlombok', name: 'lombok', version: '1.18.16'
+
+    // https://mvnrepository.com/artifact/com.google.code.gson/gson
+    implementation 'com.google.code.gson:gson:2.8.7'
+
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.6.0'
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine'
 }

@@ -1,0 +1,18 @@
+{
+  "name": "Gravity",
+  "description": "Sample description",
+  "developed-by": "Jinthium",
+  "cracked-by": "Paolo V.",
+  "preview-urls": [
+    "preview0.jpg",
+    "preview1.jpg",
+    "preview2.jpg",
+    "preview3.jpg",
+    "preview4.jpg",
+    "preview5.jpg",
+    "preview6.jpg"
+  ],
+  "mc-versions": [
+    "1.8.8"
+  ]
+}
