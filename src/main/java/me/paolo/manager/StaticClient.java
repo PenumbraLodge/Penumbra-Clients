@@ -23,7 +23,7 @@ public class StaticClient
 
     private static ArtifactStruct createArtifact(ClientInfo clientInfo, String version, File file) {
         ArtifactStruct artifact = new ArtifactStruct();
-        artifact.setPath(clientInfo.getName() + '/' + file.getName());
+        artifact.setPath(clientInfo.getName() + '-' + version + '/' + file.getName());
         artifact.setSize(file.length());
         artifact.setUrl(String.format("%s/versions/%s/%s/%s",
                 ServerMain.REPOSITORY_URL, clientInfo.getName(), version, file.getName()
