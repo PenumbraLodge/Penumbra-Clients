@@ -3,13 +3,13 @@
     "jars": [
       {
         "jar": {
-          "path": "Azura-b2.0/Azura.jar",
+          "path": "Azura/b2.0/Azura.jar",
           "sha1": "30125b89348ad68655124751a17023c6823409b9",
           "size": 19901672,
           "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Azura/b2.0/Azura.jar"
         },
         "json": {
-          "path": "Azura-b2.0/Azura.json",
+          "path": "Azura/b2.0/Azura.json",
           "sha1": "0c16bde868d6090563d79ed0c920d03717a5557a",
           "size": 25587,
           "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Azura/b2.0/Azura.json"
@@ -34,13 +34,13 @@
     "jars": [
       {
         "jar": {
-          "path": "Dortware-1.5.0/Dortware.jar",
+          "path": "Dortware/1.5.0/Dortware.jar",
           "sha1": "057f77427c926de70243ff3fc2de053301bd223c",
           "size": 26783062,
           "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Dortware/1.5.0/Dortware.jar"
         },
         "json": {
-          "path": "Dortware-1.5.0/Dortware.json",
+          "path": "Dortware/1.5.0/Dortware.json",
           "sha1": "60ac4c74c9b777b2fc842b763d27b2d4a8eb561b",
           "size": 20535,
           "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Dortware/1.5.0/Dortware.json"
@@ -66,13 +66,13 @@
     "jars": [
       {
         "jar": {
-          "path": "Eris-v0.1b/Eris.jar",
+          "path": "Eris/v0.1b/Eris.jar",
           "sha1": "213765b43dff187b140e481fea02ec5733fbda9c",
           "size": 31104334,
           "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Eris/v0.1b/Eris.jar"
         },
         "json": {
-          "path": "Eris-v0.1b/Eris.json",
+          "path": "Eris/v0.1b/Eris.json",
           "sha1": "7820cc035df118b031e94cb0b8cd19bc1a52b814",
           "size": 23559,
           "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Eris/v0.1b/Eris.json"
@@ -99,13 +99,13 @@
     "jars": [
       {
         "jar": {
-          "path": "Fan-3.1-beta/Fan.jar",
+          "path": "Fan/3.1-beta/Fan.jar",
           "sha1": "ade20ee10d32c1bd0b990db48d263960b11b215b",
           "size": 22248128,
           "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Fan/3.1-beta/Fan.jar"
         },
         "json": {
-          "path": "Fan-3.1-beta/Fan.json",
+          "path": "Fan/3.1-beta/Fan.json",
           "sha1": "59cb04523317617d05165ce492f7708cced1d828",
           "size": 20456,
           "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Fan/3.1-beta/Fan.json"
@@ -130,13 +130,13 @@
     "jars": [
       {
         "jar": {
-          "path": "Gravity-2.1/Gravity.jar",
+          "path": "Gravity/2.1/Gravity.jar",
           "sha1": "352e86206f643f3069dfbaf0a7e1e4084de34f73",
           "size": 25583807,
           "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Gravity/2.1/Gravity.jar"
         },
         "json": {
-          "path": "Gravity-2.1/Gravity.json",
+          "path": "Gravity/2.1/Gravity.json",
           "sha1": "e55b6ae6a33e882b44509f19f41962d1294ce29f",
           "size": 22894,
           "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Gravity/2.1/Gravity.json"
@@ -165,13 +165,13 @@
     "jars": [
       {
         "jar": {
-          "path": "Pulsive-2.0/Pulsive.jar",
+          "path": "Pulsive/2.0/Pulsive.jar",
           "sha1": "cc9e419d9c6245bc39fb36b84610a8ba2607ee49",
           "size": 34776217,
           "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Pulsive/2.0/Pulsive.jar"
         },
         "json": {
-          "path": "Pulsive-2.0/Pulsive.json",
+          "path": "Pulsive/2.0/Pulsive.json",
           "sha1": "64954d19ae71172f53958d3cf772bf10f49b1413",
           "size": 22894,
           "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Pulsive/2.0/Pulsive.json"
@@ -197,13 +197,13 @@
     "jars": [
       {
         "jar": {
-          "path": "Rise-5.11/Rise.jar",
+          "path": "Rise/5.11/Rise.jar",
           "sha1": "f6fbc57ae1cc67b543b66d0450af2ab30dcf2a9d",
           "size": 24448003,
           "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Rise/5.11/Rise.jar"
         },
         "json": {
-          "path": "Rise-5.11/Rise.json",
+          "path": "Rise/5.11/Rise.json",
           "sha1": "2fa6b0d6029571ddf32ea9adf9d8d23564e7f286",
           "size": 23242,
           "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Rise/5.11/Rise.json"
@@ -229,13 +229,13 @@
     "jars": [
       {
         "jar": {
-          "path": "ZeroDay-b20.6/ZeroDay.jar",
+          "path": "ZeroDay/b20.6/ZeroDay.jar",
           "sha1": "7b6bb3bc64f21b43d0086d158b7bffc5054c318b",
           "size": 71570540,
           "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/ZeroDay/b20.6/ZeroDay.jar"
         },
         "json": {
-          "path": "ZeroDay-b20.6/ZeroDay.json",
+          "path": "ZeroDay/b20.6/ZeroDay.json",
           "sha1": "cd87b6251abf696404e3208615f34b6d048b7cf5",
           "size": 22152,
           "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/ZeroDay/b20.6/ZeroDay.json"
