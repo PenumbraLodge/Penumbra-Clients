@@ -6,6 +6,7 @@ import me.paolo.client.JarInfo;
 import me.paolo.manager.StaticClient;
 import me.paolo.util.IOUtil;
 import me.paolo.util.JsonUtil;
+import me.paolo.util.StringUtil;
 
 import java.io.*;
 import java.nio.charset.StandardCharsets;
@@ -90,8 +91,11 @@ public class ServerMain
         ArtifactStruct artifact = new ArtifactStruct();
         artifact.setPath((rootAbsolute.equals(fileAbsolute) ?
                 fileAbsolute.substring(parentAbsolute.length() + 1) : fileAbsolute.substring(rootAbsolute.length() + 1)));
-        artifact.setUrl(REPOSITORY_URL + '/' + fileAbsolute.substring(parentAbsolute.length() + 1));
         artifact.setSize(file.length());
+
+        artifact.setUrl(REPOSITORY_URL + '/' + StringUtil.encodePath(
+                fileAbsolute.substring(parentAbsolute.length() + 1)
+        ));
 
         try(FileInputStream inputStream = new FileInputStream(file);
             ByteArrayOutputStream outputStream = new ByteArrayOutputStream()) {

@@ -2,12 +2,14 @@ package me.paolo.util;
 
 import lombok.experimental.UtilityClass;
 
-import java.util.ArrayList;
-import java.util.List;
-
 @UtilityClass
 public class StringUtil
 {
+
+    // TODO: Add more escape support
+    public static String encodePath(String url) {
+        return url.replace(" ", "%20");
+    }
 
     public static boolean isEmpty(String str) {
         if(str == null) return true;
