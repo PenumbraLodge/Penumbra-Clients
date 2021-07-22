@@ -229,6 +229,38 @@
     "jars": [
       {
         "jar": {
+          "path": "Tenacity/2.0/Tenacity.jar",
+          "sha1": "be4579bc89904a9a01a4d825156329ca59fe5fb5",
+          "size": 24810757,
+          "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Tenacity/2.0/Tenacity.jar"
+        },
+        "json": {
+          "path": "Tenacity/2.0/Tenacity.json",
+          "sha1": "d2658eabbcb7a870babf7e7157cf6ca9f5e187ee",
+          "size": 18871,
+          "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Tenacity/2.0/Tenacity.json"
+        },
+        "version": "2.0"
+      }
+    ],
+    "name": "Tenacity",
+    "description": "Description coming soon",
+    "developed-by": "Cedo, JosephWorks, Foggy",
+    "cracked-by": "Paolo V.",
+    "preview-urls": [
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Tenacity/preview0.png",
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Tenacity/preview1.png",
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Tenacity/preview2.png",
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Tenacity/preview3.png"
+    ],
+    "mc-versions": [
+      "1.8.9"
+    ]
+  },
+  {
+    "jars": [
+      {
+        "jar": {
           "path": "ZeroDay/b20.6/ZeroDay.jar",
           "sha1": "7b6bb3bc64f21b43d0086d158b7bffc5054c318b",
           "size": 71570540,
