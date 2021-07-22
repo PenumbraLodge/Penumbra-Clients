@@ -1,14 +1,9 @@
 plugins {
     id "java"
-    id "application"
 }
 
 group "me.paolo"
 version "1.0-SNAPSHOT"
-
-ext {
-    javaMainClass = "me.paolo.ServerMain"
-}
 
 repositories {
     mavenCentral()
@@ -16,22 +11,6 @@ repositories {
     maven {
         url "https://jitpack.io"
     }
-}
-
-jar {
-    archiveName = "${project.name}.jar"
-
-    manifest {
-        attributes "Main-Class": javaMainClass
-    }
-
-    from {
-        configurations.compile.collect { it.isDirectory() ? it : zipTree(it) }
-    }
-}
-
-application {
-    mainClassName = javaMainClass
 }
 
 dependencies {
