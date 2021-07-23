@@ -236,8 +236,8 @@
         },
         "json": {
           "path": "Tenacity/2.0/Tenacity.json",
-          "sha1": "d2658eabbcb7a870babf7e7157cf6ca9f5e187ee",
-          "size": 18871,
+          "sha1": "c6cefeb4fdc5f28970a99d5230735b5f3398e906",
+          "size": 19121,
           "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Tenacity/2.0/Tenacity.json"
         },
         "version": "2.0"
