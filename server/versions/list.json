@@ -230,14 +230,14 @@
       {
         "jar": {
           "path": "Tenacity/2.0/Tenacity.jar",
-          "sha1": "970a45717db032651bde15ce72a0ccb053c24c47",
-          "size": 24783996,
+          "sha1": "3d2d11bbdff75a65331e720e830063be190fed4a",
+          "size": 24807582,
           "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Tenacity/2.0/Tenacity.jar"
         },
         "json": {
           "path": "Tenacity/2.0/Tenacity.json",
-          "sha1": "b3091850a1fc4f81ef3839808146171dc90fcadf",
-          "size": 19121,
+          "sha1": "a098f88efaf3d1407afd06137bb84022753c14bf",
+          "size": 20535,
           "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Tenacity/2.0/Tenacity.json"
         },
         "version": "2.0"
