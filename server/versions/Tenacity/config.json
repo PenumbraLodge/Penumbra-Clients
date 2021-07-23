@@ -1,4 +1,12 @@
 {
+  "jars": [
+    {
+      "jvm": {
+        "path": "jre1.8.0_51.zip"
+      },
+      "version": "2.0"
+    }
+  ],
   "name": "Tenacity",
   "description": "Description coming soon",
   "developed-by": "Cedo, JosephWorks, Foggy",

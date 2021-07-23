@@ -1,4 +1,12 @@
 {
+  "jars": [
+    {
+      "jvm": {
+        "path": "jre1.8.0_51.zip"
+      },
+      "version": "1.5.0"
+    }
+  ],
   "name": "Dortware",
   "description": "Description coming soon",
   "developed-by": "Dort, Aidan, Newb, Auth",

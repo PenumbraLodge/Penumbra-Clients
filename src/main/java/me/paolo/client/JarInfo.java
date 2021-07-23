@@ -7,6 +7,9 @@ import lombok.Setter;
 public class JarInfo
 {
 
+    @SerializedName("jvm")
+    @Getter @Setter private ArtifactStruct jvm;
+
     @SerializedName("jar")
     @Getter @Setter private ArtifactStruct jar;
 

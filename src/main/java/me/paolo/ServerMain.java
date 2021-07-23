@@ -22,19 +22,25 @@ public class ServerMain
 
     public static void main(String[] args) {
         if(args.length < 2) {
-            System.out.println("Usage: <versions_dir> <update_file>");
+            System.out.println("Usage: <runtime_dir> <versions_dir> <update_file>");
             return;
         }
 
         { // Import all clients (First part)
-            File versionsDir = new File(args[0]);
+            File runtimeDir = new File(args[0]);
+            if(!runtimeDir.exists()) {
+                System.err.println("Runtime dir not found!");
+                return;
+            }
+
+            File versionsDir = new File(args[1]);
             if(!versionsDir.exists()) {
                 System.err.println("Versions dir not found!");
                 return;
             }
 
             System.out.println("Importing clients...");
-            ClientInfo[] clientList = StaticClient.list(versionsDir);
+            ClientInfo[] clientList = StaticClient.list(runtimeDir, versionsDir);
             Arrays.sort(clientList, Comparator.comparing(ClientInfo::getName));
 
             Arrays.stream(clientList).forEach(clientInfo ->
@@ -54,7 +60,7 @@ public class ServerMain
         }
         System.out.println();
         { // Import update file (Second part)
-            File updateFile = new File(new File(args[1]).getAbsolutePath());
+            File updateFile = new File(new File(args[2]).getAbsolutePath());
             if(!updateFile.exists()) {
                 System.err.println("Update file not found!");
                 return;

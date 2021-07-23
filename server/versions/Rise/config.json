@@ -1,4 +1,12 @@
 {
+  "jars": [
+    {
+      "jvm": {
+        "path": "jre1.8.0_51.zip"
+      },
+      "version": "5.11"
+    }
+  ],
   "name": "Rise",
   "description": "Description coming soon",
   "developed-by": "Alan",

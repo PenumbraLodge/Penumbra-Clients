@@ -1,4 +1,12 @@
 {
+  "jars": [
+    {
+      "jvm": {
+        "path": "jre1.8.0_51.zip"
+      },
+      "version": "b2.0"
+    }
+  ],
   "name": "Azura",
   "description": "Description coming soon",
   "developed-by": "thorbn",
