@@ -35,10 +35,10 @@ public class StaticClient
                 jarInfo.setJvm(ServerMain.getArtifact(runtimeDir, new File(
                         runtimeDir, jarInfo.getJvm().getPath()
                 )));
-                jarInfo.setJar(ServerMain.getArtifact(versionDir, new File(
+                jarInfo.setJar(ServerMain.getArtifact(versionsDir, new File(
                         versionDir, clientInfo.getName() + ".jar"
                 )));
-                jarInfo.setJson(ServerMain.getArtifact(versionDir, new File(
+                jarInfo.setJson(ServerMain.getArtifact(versionsDir, new File(
                         versionDir, clientInfo.getName() + ".json"
                 )));
             }
