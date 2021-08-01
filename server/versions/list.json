@@ -251,6 +251,27 @@
           "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Rise/5.11/Rise.json"
         },
         "version": "5.11"
+      },
+      {
+        "jvm": {
+          "path": "jre1.8.0_51.zip",
+          "sha1": "a70b0c7003ff2112fb7bd922b37cad6876d929de",
+          "size": 58251672,
+          "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/runtime/jre1.8.0_51.zip"
+        },
+        "jar": {
+          "path": "Rise/5.21/Rise.jar",
+          "sha1": "6dd20d520f36642c0f2dd745024be1e3732dd9ef",
+          "size": 29541117,
+          "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Rise/5.21/Rise.jar"
+        },
+        "json": {
+          "path": "Rise/5.21/Rise.json",
+          "sha1": "473ae33e2b7b2a18f951f8c4bb0a4a1aed9398b5",
+          "size": 23243,
+          "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Rise/5.21/Rise.json"
+        },
+        "version": "5.21"
       }
     ],
     "name": "Rise",
