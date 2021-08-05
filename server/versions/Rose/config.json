@@ -1,0 +1,23 @@
+{
+  "jars": [
+    {
+      "jvm": {
+        "path": "jre1.8.0_51.zip"
+      },
+      "version": "1.0"
+    }
+  ],
+  "name": "Rose",
+  "description": "Description coming soon",
+  "developed-by": "cedo, Imf44, G8LOL and iTrqPss",
+  "cracked-by": "Paolo V.",
+  "preview-urls": [
+    "preview0.png",
+    "preview1.png",
+    "preview2.png",
+    "preview3.png"
+  ],
+  "mc-versions": [
+    "1.8.9"
+  ]
+}

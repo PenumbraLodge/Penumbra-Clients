@@ -298,6 +298,44 @@
           "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/runtime/jre1.8.0_51.zip"
         },
         "jar": {
+          "path": "Rose/1.0/Rose.jar",
+          "sha1": "53bd486044bd9533f04a30fdf67417b9192748e6",
+          "size": 24076597,
+          "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Rose/1.0/Rose.jar"
+        },
+        "json": {
+          "path": "Rose/1.0/Rose.json",
+          "sha1": "f64dbcf83199608eaefb32a7adbb29ea14e2cb01",
+          "size": 25247,
+          "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Rose/1.0/Rose.json"
+        },
+        "version": "1.0"
+      }
+    ],
+    "name": "Rose",
+    "description": "Description coming soon",
+    "developed-by": "cedo, Imf44, G8LOL and iTrqPss",
+    "cracked-by": "Paolo V.",
+    "preview-urls": [
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Rose/preview0.png",
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Rose/preview1.png",
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Rose/preview2.png",
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Rose/preview3.png"
+    ],
+    "mc-versions": [
+      "1.8.9"
+    ]
+  },
+  {
+    "jars": [
+      {
+        "jvm": {
+          "path": "jre1.8.0_51.zip",
+          "sha1": "a70b0c7003ff2112fb7bd922b37cad6876d929de",
+          "size": 58251672,
+          "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/runtime/jre1.8.0_51.zip"
+        },
+        "jar": {
           "path": "Tenacity/2.0/Tenacity.jar",
           "sha1": "3d2d11bbdff75a65331e720e830063be190fed4a",
           "size": 24807582,
