@@ -11,6 +11,12 @@
         "path": "jre1.8.0_51.zip"
       },
       "version": "5.21"
+    },
+    {
+      "jvm": {
+        "path": "jre1.8.0_51.zip"
+      },
+      "version": "5.31"
     }
   ],
   "name": "Rise",
