@@ -1,0 +1,22 @@
+{
+  "jars": [
+    {
+      "jvm": {
+        "path": "jre1.8.0_51.zip"
+      },
+      "version": "112321"
+    }
+  ],
+  "name": "Novoline",
+  "description": "Description coming soon",
+  "developed-by": "gast",
+  "cracked-by": "Team Khonsari",
+  "preview-urls": [
+    "preview0.png",
+    "preview1.png",
+    "preview2.png"
+  ],
+  "mc-versions": [
+    "1.8.8"
+  ]
+}

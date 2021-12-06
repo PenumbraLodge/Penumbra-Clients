@@ -201,6 +201,43 @@
           "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/runtime/jre1.8.0_51.zip"
         },
         "jar": {
+          "path": "Novoline/112321/Novoline.jar",
+          "sha1": "4e5bf9a4a91a9be6d05e80edb5071792a3035f6e",
+          "size": 16449096,
+          "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Novoline/112321/Novoline.jar"
+        },
+        "json": {
+          "path": "Novoline/112321/Novoline.json",
+          "sha1": "5a2986c3af8374e67cb435ef4ea1fef693066610",
+          "size": 29066,
+          "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Novoline/112321/Novoline.json"
+        },
+        "version": "112321"
+      }
+    ],
+    "name": "Novoline",
+    "description": "Description coming soon",
+    "developed-by": "gast",
+    "cracked-by": "Team Khonsari",
+    "preview-urls": [
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Novoline/preview0.png",
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Novoline/preview1.png",
+      "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/versions/Novoline/preview2.png"
+    ],
+    "mc-versions": [
+      "1.8.8"
+    ]
+  },
+  {
+    "jars": [
+      {
+        "jvm": {
+          "path": "jre1.8.0_51.zip",
+          "sha1": "a70b0c7003ff2112fb7bd922b37cad6876d929de",
+          "size": 58251672,
+          "url": "https://raw.githubusercontent.com/PenumbraLodge/Penumbra-Clients/master/server/runtime/jre1.8.0_51.zip"
+        },
+        "jar": {
           "path": "Pulsive/2.0/Pulsive.jar",
           "sha1": "cc9e419d9c6245bc39fb36b84610a8ba2607ee49",
           "size": 34776217,
